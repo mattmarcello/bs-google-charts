@@ -23,3 +23,4 @@ This will replace the development artifact `build/Index.js` for an optimized ver
 
 **To enable dead code elimination**, change `bsconfig.json`'s `package-specs` `module` from `"commonjs"` to `"es6"`. Then re-run the above 2 commands. This will allow Webpack to remove unused code.
 # bs-google-charts
+# bs-google-charts
